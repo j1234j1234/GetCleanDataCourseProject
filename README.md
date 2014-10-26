@@ -8,7 +8,7 @@ This repo contains the following files:
 - This readme file "README.md"
 - The Raw Data, stored in the folder "UCI HAR Dataset"
 - The Tidy Data "means.txt"
-- The codebook for the tidy data "Codebook.md"
+- The codebook for the tidy data "CodeBook.md"
 - The code that converted the raw data into the tidy data "run_analysis.R"
 
 The "run_analysis.R" code is used to format the provided raw Samsung data and create a tidy dataset

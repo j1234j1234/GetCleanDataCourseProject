@@ -78,5 +78,3 @@ colnames(Means)[1:2] <- c("Activity", "Subject")
 write.table(Means, "means.txt",row.name=FALSE)
 
 #test <- read.table("means.txt", header=TRUE)
-
-colnames(Means)
